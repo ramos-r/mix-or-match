@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "VALORANT";
+    src: url("Assets/fonts/VALORANT.ttf") format("ttf")
+}
+
+body {
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100%;
+    background-image: url("Assets/images/fundo-jogo-2.png");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.page-title {
+    color: #ffffff;
+    font-family: 'VALORANT', cursive;
+    font-size: 5em;
+    margin-bottom: 0em;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    font-family: 'VALORANT', cursive;
+}
+
+main {
+    max-width: 80vw;
+    margin: auto;
+    justify-content: center;
+    float: initial;
+}
+
+#jogo-da-memoria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("Assets/images/fundo-jogo-2-black.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 2em;
+    border-bottom: 1em solid #ff4654;
+    border-top: 1em solid #ff4654;
+    margin-top: 1em;
+}
+
+.card {
+    line-height: 1vh;
+    width: 10vw;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+button {
+    width: 200px;
+    line-height: 4vh;
+    color: #ffffff;
+    background-color: #ff4654;
+    margin-bottom: 20px;
+    border: #ffffff;
+    font-family: 'Baloo 2', cursive;
+    font-size: large;
+}
+
+.recordes {
+    color: #ffffff;
+    font-family: 'Baloo 2', cursive;
+    font-size: large;
+    background-color: #ff4654;
+}

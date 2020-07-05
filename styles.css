@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Solo";
+    src: url("Assets/fonts/Solo.ttf") format("ttf")
+}
+
+@font-face {
+    font-family: "VALORANT";
+    src: url("Assets/fonts/VALORANT.ttf") format("ttf")
+}
+
+.page-title {
+    font-family: 'Solo', cursive;
+    color: #ffffff;
+    font-weight: normal;
+    text-align: center;
+    font-size: 6em;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    min-height: 100vh;
+}
+
+body {
+    margin: 0 auto;
+    background: radial-gradient( #455269, #101823);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.main-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.jogo-1 {
+   float: left;
+margin-left: 10em;
+}
+
+.jogo-2 {
+    float: right;
+    margin-right: 10em;
+}
+
+#jogo-1, #jogo-2 {
+    max-width: 70vh;
+    min-height: 360px;
+    border: 2px solid #ffffff;
+}
+
+#game-select-text {
+     color: #ffffff;
+     font-family: 'VALORANT', cursive;
+}
+
+button {
+    background-color: #101823;
+    color: #ffffff;
+    width: 50%;
+    height: 2em;
+    font-size: large;
+    font-family: 'Arial', cursive;
+    margin-top: 2em;
+    border: none;
+}
