@@ -191,11 +191,6 @@ function minha_funcao() {
         }
     }  
 
-        if (document.getElementsByTagName("Img").name == document.getElementsByTagName("Img").name)
-        {
-           card.style.visibility = "hidden"
-        }
-
     // card.style.visibility = "hidden" //Tornando a carta invisível
     pontuar(++pontuacao)
 }
