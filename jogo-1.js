@@ -153,8 +153,8 @@ var img
 
 deck.forEach( carta => {
     divCard = document.createElement("div")
-    divCard.setAttribute("class", "card")
     divCard.setAttribute("id", carta.id)
+    divCard.setAttribute("class", "card")
     divCard.setAttribute("onclick", "minha_funcao()")
     
     //Frente das cartas (oculto)
@@ -217,8 +217,6 @@ function pontuar(pontos) {
 
 pontuar(pontuacao)
 
-
-
 function reset() {
     for(var i = 0; i < jogo.children.length; i++){
         var carta = jogo.children[i]
@@ -239,3 +237,14 @@ function reset() {
     pontuacao = 0
     pontuar(pontuacao)
 }
+
+function hide(){
+
+name = deck.document.getElementsByName("Raze", "Raze1").value
+
+    if(name == name){
+        card.style.visibility = "hidden";
+    }
+}
+
+hide()

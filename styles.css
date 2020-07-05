@@ -9,7 +9,7 @@
 }
 
 .page-title {
-    font-family: 'Solo', cursive;
+    font-family: 'Baloo 2', cursive;
     color: #ffffff;
     font-weight: normal;
     text-align: center;
@@ -56,16 +56,16 @@ margin-left: 10em;
 
 #game-select-text {
      color: #ffffff;
-     font-family: 'VALORANT', cursive;
+     font-family: 'Baloo 2', cursive;
 }
 
 button {
+    font-family: 'Baloo 2', cursive;
     background-color: #101823;
     color: #ffffff;
     width: 50%;
     height: 2em;
     font-size: large;
-    font-family: 'Arial', cursive;
     margin-top: 2em;
     border: none;
 }
