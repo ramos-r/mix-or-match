@@ -2,146 +2,122 @@ const deck = [
     {
         "id": "Raze",
         "name": "Raze.png",
-        "src": "Assets/images/deck-jogo-1/Raze.png",
-        "value": "1"
+        "src": "Assets/images/deck-jogo-1/Raze.png"
     },
     {
         "id": "Sova",
         "name": "Sova.png",
-        "src": "Assets/images/deck-jogo-1/Sova.png",
-        "value": "2"
+        "src": "Assets/images/deck-jogo-1/Sova.png"
     },
     {
         "id": "Jett",
         "name": "Jett.png",
-        "src": "Assets/images/deck-jogo-1/Jett.png",
-        "value": "3"
+        "src": "Assets/images/deck-jogo-1/Jett.png"
     },
     {
         "id": "Phoenix",
         "name": "Phoenix.png",
-        "src": "Assets/images/deck-jogo-1/Phoenix.png",
-        "value": "4"
+        "src": "Assets/images/deck-jogo-1/Phoenix.png"
     },
     {
         "id": "Sage",
         "name": "Sage.png",
-        "src": "Assets/images/deck-jogo-1/Sage.png",
-        "value": "5"
+        "src": "Assets/images/deck-jogo-1/Sage.png"
     },
     {
         "id": "Viper",
         "name": "Viper.png",
-        "src": "Assets/images/deck-jogo-1/Viper.png",
-        "value": "6"
+        "src": "Assets/images/deck-jogo-1/Viper.png"
     },
     {
         "id": "Cypher",
         "name": "Cypher.png",
-        "src": "Assets/images/deck-jogo-1/Cypher.png",
-        "value": "7"
+        "src": "Assets/images/deck-jogo-1/Cypher.png"
     },
     {
         "id": "Brimstone",
         "name": "Brimstone.png",
-        "src": "Assets/images/deck-jogo-1/Brimstone.png",
-        "value": "8"
+        "src": "Assets/images/deck-jogo-1/Brimstone.png"
     },
     {
         "id": "Breach",
         "name": "Breach.png",
-        "src": "Assets/images/deck-jogo-1/Breach.png",
-        "value": "9"
+        "src": "Assets/images/deck-jogo-1/Breach.png"
     },
     {
         "id": "Omen",
         "name": "Omen.png",
-        "src": "Assets/images/deck-jogo-1/Omen.png",
-        "value": "10"
+        "src": "Assets/images/deck-jogo-1/Omen.png"
     },
     {
         "id": "Reyna",
         "name": "Reyna.png",
-        "src": "Assets/images/deck-jogo-1/Reyna.png",
-        "value": "11"
+        "src": "Assets/images/deck-jogo-1/Reyna.png"
     },
     {
         "id": "Bear",
         "name": "Bear.gif",
-        "src": "Assets/images/deck-jogo-1/Bear.gif",
-        "value": "12"
+        "src": "Assets/images/deck-jogo-1/Bear.gif"
     },
     {
         "id": "Raze1",
         "name": "Raze.png",
-        "src": "Assets/images/deck-jogo-1/Raze.png",
-        "value": "1"
+        "src": "Assets/images/deck-jogo-1/Raze.png"
     },
     {
         "id": "Sova1",
         "name": "Sova.png",
-        "src": "Assets/images/deck-jogo-1/Sova.png",
-        "value": "2"
+        "src": "Assets/images/deck-jogo-1/Sova.png"
     },
     {
         "id": "Jett1",
         "name": "Jett.png",
-        "src": "Assets/images/deck-jogo-1/Jett.png",
-        "value": "3"
+        "src": "Assets/images/deck-jogo-1/Jett.png"
     },
     {
         "id": "Phoenix1",
         "name": "Phoenix.png",
-        "src": "Assets/images/deck-jogo-1/Phoenix.png",
-        "value": "4"
+        "src": "Assets/images/deck-jogo-1/Phoenix.png"
     },
     {
         "id": "Sage1",
         "name": "Sage.png",
-        "src": "Assets/images/deck-jogo-1/Sage.png",
-        "value": "5"
+        "src": "Assets/images/deck-jogo-1/Sage.png"
     },
     {
         "id": "Viper1",
         "name": "Viper.png",
-        "src": "Assets/images/deck-jogo-1/Viper.png",
-        "value": "6"
+        "src": "Assets/images/deck-jogo-1/Viper.png"
     },
     {
         "id": "Cypher1",
         "name": "Cypher.png",
-        "src": "Assets/images/deck-jogo-1/Cypher.png",
-        "value": "7"
+        "src": "Assets/images/deck-jogo-1/Cypher.png"
     },
     {
         "id": "Brimstone1",
         "name": "Brimstone.png",
-        "src": "Assets/images/deck-jogo-1/Brimstone.png",
-        "value": "8"
+        "src": "Assets/images/deck-jogo-1/Brimstone.png"
     },
     {
         "id": "Breach1",
         "name": "Breach.png",
-        "src": "Assets/images/deck-jogo-1/Breach.png",
-        "value": "9"
+        "src": "Assets/images/deck-jogo-1/Breach.png"
     },
     {
         "id": "Omen1",
         "name": "Omen.png",
-        "src": "Assets/images/deck-jogo-1/Omen.png",
-        "value": "10"
+        "src": "Assets/images/deck-jogo-1/Omen.png"
     },
     {
         "id": "Reyna1",
         "name": "Reyna.png",
-        "src": "Assets/images/deck-jogo-1/Reyna.png",
-        "value": "11"
+        "src": "Assets/images/deck-jogo-1/Reyna.png"
     },
     {
         "id": "Bear1",
         "name": "Bear.gif",
-        "src": "Assets/images/deck-jogo-1/Bear.gif",
-        "value": "12"
+        "src": "Assets/images/deck-jogo-1/Bear.gif"
     }
 ]
 
@@ -154,11 +130,17 @@ var img
 deck.forEach( carta => {
     divCard = document.createElement("div")
     divCard.setAttribute("id", carta.id)
-    divCard.setAttribute("class", "card")
+    divCard.setAttribute("class", "flip-card")
+    divCard.setAttribute("onclick", "minha_funcao()")
+
+    divCard = document.createElement("div")
+    divCard.setAttribute("id", carta.id)
+    divCard.setAttribute("class", "flip-card-inner")
     divCard.setAttribute("onclick", "minha_funcao()")
     
     //Frente das cartas (oculto)
     tagImg = document.createElement("img")
+    tagImg.setAttribute("class", "flip-card-front")
     tagImg.setAttribute("src", carta.src)
     tagImg.setAttribute("alt", carta.name)
     tagImg.style.display = "none"
@@ -166,6 +148,7 @@ deck.forEach( carta => {
 
     //Verso das cartas (visível)
     tagImg = document.createElement("img")
+    tagImg.setAttribute("class", "flip-card-back")
     tagImg.setAttribute("src", "Assets/images/deck-jogo-1/back.png")
     tagImg.setAttribute("alt", "verso")
     tagImg.style.display = "block"
@@ -238,13 +221,8 @@ function reset() {
     pontuar(pontuacao)
 }
 
-function hide(){
+var person = prompt("Insira seu nome para jogar:", "");
 
-name = deck.document.getElementsByName("Raze", "Raze1").value
-
-    if(name == name){
-        card.style.visibility = "hidden";
-    }
+if (person != null){
+    document.getElementById("demo").innerHTML = "Bem-vindo(a) " + person + " e bom jogo! ";
 }
-
-hide()
