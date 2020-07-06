@@ -25,6 +25,8 @@ html {
 }
 
 body {
+    display: flex;
+    flex-wrap: wrap;
     margin: 0 auto;
     background: radial-gradient( #455269, #101823);
     justify-content: center;
@@ -39,8 +41,8 @@ body {
 }
 
 .jogo-1 {
-   float: left;
-margin-left: 10em;
+    float: left;
+    margin-left: 10em;
 }
 
 .jogo-2 {
