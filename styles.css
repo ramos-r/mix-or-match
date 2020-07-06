@@ -69,3 +69,8 @@ button {
     margin-top: 2em;
     border: none;
 }
+
+button:hover {
+    background-color: #2a3749;
+    margin-bottom: 20px;
+}
