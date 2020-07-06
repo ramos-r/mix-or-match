@@ -68,6 +68,7 @@ button {
     font-size: large;
     margin-top: 2em;
     border: none;
+    transition-duration: 0.4s;
 }
 
 button:hover {
