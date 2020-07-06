@@ -51,6 +51,10 @@ body {
     margin-right: 10em;
 }
 
+.jogo-1, .jogo-2 {
+    margin: 1em;
+}
+
 #jogo-1, #jogo-2 {
     max-width: 70vh;
     min-height: 360px;
